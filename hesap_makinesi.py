@@ -104,4 +104,3 @@ clear_button = tk.Button(frame_calculator, text="C", width=5, height=2, command=
 clear_button.grid(row=5, column=0, columnspan=4, pady=5)
 
 root.mainloop()
-
