@@ -55,11 +55,28 @@ pip install -r requirements.txt
 6.Run the application:
 
 python main.py
+
 ## Usage
 
-~Calculator: Click numeric and operation buttons to perform calculations. Press = to compute the result. Clear the input using C. View history using H.
+### Calculator
+- Use the numeric and operation buttons to perform calculations.
+- Press `=` to compute the result.
+- Press `C` to clear the current input.
+- Press `H` to view the history of your calculations with totals, averages, minimum, and maximum values.
 
-~Currency Converter: Enter an amount, select the source and target currency, and see the converted value instantly using live exchange rates.
+### Currency Converter
+- Enter an amount in the source currency.
+- Select the target currency (USD, EUR, GBP, etc.).
+- The converted value is displayed instantly using live exchange rates.
+- Works for all supported currencies with up-to-date rates.
+
+---
+
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project under the following terms:
+
+- Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+- The software is provided "as is", without warranty of any kind, express or implied.
+- See the `LICENSE` file in the repository for full details.
