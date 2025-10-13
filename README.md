@@ -18,8 +18,6 @@ It allows users to perform advanced calculations and convert currencies (USD, EU
 ![Calculator Screenshot](./screenshots/calculator.png)
 ![Currency Converter Screenshot](./screenshots/converter.png)
 
-## Usage
-
 ### Calculator
 - Use the numeric and operation buttons to perform calculations.
 - Press `=` to compute the result.
